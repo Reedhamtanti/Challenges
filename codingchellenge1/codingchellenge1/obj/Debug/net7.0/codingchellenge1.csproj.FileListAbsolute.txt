@@ -1,0 +1,17 @@
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\bin\Debug\net7.0\codingchellenge1.exe
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\bin\Debug\net7.0\codingchellenge1.deps.json
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\bin\Debug\net7.0\codingchellenge1.runtimeconfig.json
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\bin\Debug\net7.0\codingchellenge1.dll
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\bin\Debug\net7.0\codingchellenge1.pdb
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.csproj.AssemblyReference.cache
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.AssemblyInfoInputs.cache
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.AssemblyInfo.cs
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.csproj.CoreCompileInputs.cache
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.csproj.CopyComplete
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.dll
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\refint\codingchellenge1.dll
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.pdb
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\codingchellenge1.genruntimeconfig.cache
+D:\CLASS 2023\C#\codingchellenge1\codingchellenge1\obj\Debug\net7.0\ref\codingchellenge1.dll
